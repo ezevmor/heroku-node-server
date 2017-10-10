@@ -1,0 +1,113 @@
+{
+  "success":true,
+  "message":"error al obtener las prestaciones",
+  "data":{
+    "content":[
+      {
+        "id": 1,
+        "codCentro": 1,
+        "descripcion": "agenda 1 1",
+        "puestoAtencion": {
+          "id": 1,
+          "codCentro": 1,
+          "descripcion": "puesto uno",
+          "robot": {
+            "id": "N",
+            "descripcion": "No"
+          },
+          "estado": {
+            "id": "A",
+            "descripcion": "Activo"
+          }
+        },
+        "usaFestivos": {
+          "id": "S",
+          "descripcion": "Si"
+        },
+        "estado": {
+          "id": "A",
+          "descripcion": "Activo"
+        }
+      },
+      {
+        "id": 2,
+        "codCentro": 1,
+        "descripcion": "agenda 2 1",
+        "puestoAtencion": {
+          "id": 1,
+          "codCentro": 1,
+          "descripcion": "puesto uno",
+          "robot": {
+            "id": "N",
+            "descripcion": "No"
+          },
+          "estado": {
+            "id": "A",
+            "descripcion": "Activo"
+          }
+        },
+        "usaFestivos": {
+          "id": "N",
+          "descripcion": "No"
+        },
+        "estado": {
+          "id": "A",
+          "descripcion": "Activo"
+        }
+      },
+      {
+        "id": 3,
+        "codCentro": 1,
+        "descripcion": "agenda 3 1",
+        "puestoAtencion": {
+          "id": 1,
+          "codCentro": 1,
+          "descripcion": "puesto uno",
+          "robot": {
+            "id": "N",
+            "descripcion": "No"
+          },
+          "estado": {
+            "id": "A",
+            "descripcion": "Activo"
+          }
+        },
+        "usaFestivos": {
+          "id": "S",
+          "descripcion": "Si"
+        },
+        "estado": {
+          "id": "A",
+          "descripcion": "Activo"
+        }
+      },
+      {
+        "id": 4,
+        "codCentro": 1,
+        "descripcion": "agenda 4 1",
+        "puestoAtencion": {
+          "id": 1,
+          "codCentro": 1,
+          "descripcion": "puesto uno",
+          "robot": {
+            "id": "N",
+            "descripcion": "No"
+          },
+          "estado": {
+            "id": "A",
+            "descripcion": "Activo"
+          }
+        },
+        "usaFestivos": {
+          "id": "S",
+          "descripcion": "Si"
+        },
+        "estado": {
+          "id": "A",
+          "descripcion": "Activo"
+        }
+      }
+
+    ]
+  }
+}

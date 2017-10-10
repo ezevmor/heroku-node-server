@@ -1,0 +1,47 @@
+{
+	"success":true,
+	"message":"error al obtener los puestos",
+	"data":{
+		"content":[
+			{
+				"id":1,
+				"codCentro":1,
+				"descripcion":"puesto uno",
+				"robot":{
+					"id":"N",
+					"descripcion":"No"
+				},
+				"estado":{
+					"id":"A",
+					"descripcion":"Activo"
+				}
+			},
+			{
+				"id": 2,
+				"codCentro": 1,
+				"descripcion": "puesto dos",
+				"robot": {
+					"id": "N",
+					"descripcion": "No"
+				},
+				"estado": {
+					"id": "A",
+					"descripcion": "Activo"
+				}
+			},
+			{
+				"id": 3,
+				"codCentro": 1,
+				"descripcion": "puesto tres",
+				"robot": {
+					"id": "N",
+					"descripcion": "No"
+				},
+				"estado": {
+					"id": "A",
+					"descripcion": "Activo"
+				}
+			}
+		]
+	}
+}

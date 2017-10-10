@@ -1,0 +1,37 @@
+{"success":true,
+  "message":"error al obtener las prestaciones", 
+  "data": {
+    "prestaciones":[
+      {
+        "id_prestacion":1,
+        "cod_centro":1,
+        "descripcion":"descripcion 1",
+        "cod_programa":"1",
+        "tipo": 1,
+        "evento": "PMEFT",
+        "duracion": 5,
+        "estado":"A"
+      },
+      {
+        "id_prestacion":2,
+        "cod_centro":2,
+        "descripcion":"descripcion 2",
+        "cod_programa":"2",
+        "tipo": 2,
+        "evento": "PFT",
+        "duracion": 10,
+        "estado":"A"
+      },
+      {
+        "id_prestacion":3,
+        "cod_centro":3,
+        "descripcion":"descripcion 3",
+        "cod_programa":"3",
+        "tipo": 3,
+        "evento": "PMEF",
+        "duracion": 15,
+        "estado":"B"
+      }
+    ]
+  }
+}

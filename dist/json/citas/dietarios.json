@@ -1,0 +1,101 @@
+{
+    "success": true,
+    "message": null,
+    "data": {
+        "listHuecos":[{
+        	"descripcion":"agenda 1 1",
+        	"dietarios":[{
+	        	"id": 1,
+	        	"codCentro": 2,    	
+	        	"fecha": "02-10-2017",
+	        	"tiempoTotal": 360,
+	        	"horaInicio": "10 02 2017 08:00:00",
+	        	"horaDesde": "10 02 2017 08:04:00",
+	        	"horaHasta": "10 02  2017 09:34:00",
+	        	"horaFin": "10 02 2017 14:00:00",  
+	        	"duracion": 4,
+	        	"tiempoRestante": 90,
+	        	"tiempoRestSobrecarga": 20,
+	        	"horaInicioBloqueo": "Lun Oct 02 2017 08:00:00",
+	        	"horaFinBloqueo": "8:30",
+	        	"motivoBloqueo": "insercion cita",
+	        	"estado": {
+                    "id": "A",
+                    "descripcion": "Activo"
+                },
+	        	"idAgenda": 1,	        	
+	        	"idHorario": 1
+        	},
+        	{
+	        	"id": 1,
+	        	"codCentro": 2,    	
+	        	"fecha": "02-10-2017",
+	        	"tiempoTotal": 360,
+	        	"horaInicio": "10 02 2017 2017 08:00:00",
+	        	"horaDesde": "10 02 2017 2017 10:30:00",
+	        	"horaHasta": "10 02 2017 2017 11:00:00",
+	        	"horaFin": "10 02 2017 14:00:00",
+	        	"duracion": 4,
+	        	"tiempoRestante": 30,
+	        	"tiempoRestSobrecarga": 20,
+	        	"horaInicioBloqueo": "10 02 2017 09:00:00",
+	        	"horaFinBloqueo": "10 02 2017 09:30:00",
+	        	"motivoBloqueo": "insercion cita",
+	        	"estado": {
+                    "id": "A",
+                    "descripcion": "Activo"
+                },
+	        	"idAgenda": 1,	        	
+	        	"idHorario": 2
+        	}
+        ]},
+        {
+        	"descripcion":"agenda 1 2",
+        	"dietarios":[{
+	        	"id": 4,
+	        	"codCentro": 2,    	
+	        	"fecha": "02-10-2017",
+	        	"tiempoTotal": 360,
+	        	"horaInicio": "10 02 2017 08:00:00",
+	        	"horaDesde": "10 02 2017 09:30:00",
+	        	"horaHasta": "10 02 2017 10:00:00",
+	        	"horaFin": "10 02 2017 14:00:00",
+	        	"duracion": 5,
+	        	"tiempoRestante": 30,
+	        	"tiempoRestSobrecarga": 30,
+	        	"horaInicioBloqueo": "10 02 2017 09:30:00",
+	        	"horaFinBloqueo": "10 02 2017 10:00:00",
+	        	"motivoBloqueo": "Pq si",
+	        	"estado": {
+                    "id": "A",
+                    "descripcion": "Activo"
+                },
+	        	"idAgenda": 2,	        	
+	        	"idHorario": 1
+        },
+        {
+	        	"id": 3,
+	        	"codCentro": 2,    	
+	        	"fecha": "02-10-2017",
+	        	"tiempoTotal": 360,
+	        	"horaInicio": "10 02 2017 15:00:00",
+	        	"horaDesde": "10 02 2017 16:15:00",
+	        	"horaHasta": "10 02 2017 16:45:00",
+	        	"horaFin": "10 02 2017 20:30:00",
+	        	"duracion": 5,
+	        	"tiempoRestante": 30,
+	        	"tiempoRestSobrecarga": 20,
+	        	"horaInicioBloqueo": "10 02 2017 16:15:00",
+	        	"horaFinBloqueo": "10 02 2017 16:45:00",
+	        	"motivoBloqueo": "insercion de citas",
+	        	"estado": {
+                    "id": "A",
+                    "descripcion": "Activo"
+                },
+	        	"idAgenda": 2,	        	
+	        	"idHorario": 2
+        	}
+        	
+        ]}
+       ]}
+}

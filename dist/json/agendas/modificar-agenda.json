@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "message": "error al guardar la agenda",
+  "data":{
+    "id":30,
+    "puesto":2,
+    "description":"cambiado",
+    "festivo":"true",
+    "active":true
+  }
+}

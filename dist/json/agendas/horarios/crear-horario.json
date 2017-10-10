@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "message": "error al guardar el horario",
+  "data":{
+    "id":10,
+    "calendario":"L",
+    "horaDesde":"Mon May 01 2017 10:00:00 GMT+0200",
+    "horaHasta":"Mon May 01 2017 21:00:00 GMT+0200",
+    "sobrecarga":30,
+    "estado":"A"
+  }
+}

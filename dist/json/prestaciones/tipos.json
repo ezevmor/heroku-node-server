@@ -1,0 +1,20 @@
+{
+  "success":true,
+  "message":"error al obtener los tipos de prestaciones",
+  "data":{
+    "content":[
+      {
+        "id":"E",
+        "descripcion":"Nuevo tratamiento"
+      },
+      {
+        "id":"F",
+        "descripcion":"Dispensacion farmaceutico"
+      },
+      {
+        "id":"T",
+        "descripcion":"Dispensacion tecnico"
+      }
+    ]
+  }
+}

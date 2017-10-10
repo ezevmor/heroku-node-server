@@ -1,0 +1,40 @@
+{
+  "success":true,
+  "message":"error al obtener los horarios",
+  "data":{
+    "content":[
+      {
+        "id":1,
+        "calendario":"LMXJV",
+        "horaDesde":"Mon May 01 2017 09:00:00 GMT+0200",
+        "horaHasta":"Mon May 01 2017 20:00:00 GMT+0200",
+        "sobrecarga":30,
+        "estado":"A"
+      },
+      {
+        "id":2,
+        "calendario":"LMXJV",
+        "horaDesde":"Mon May 01 2017 09:00:00 GMT+0200",
+        "horaHasta":"Mon May 01 2017 20:00:00 GMT+0200",
+        "sobrecarga":30,
+        "estado":"A"
+      },
+      {
+        "id":3,
+        "calendario":"LMXJV",
+        "horaDesde":"Mon May 01 2017 09:00:00 GMT+0200",
+        "horaHasta":"Mon May 01 2017 20:00:00 GMT+0200",
+        "sobrecarga":30,
+        "estado":"B"
+      },
+      {
+        "id":4,
+        "calendario":"LMXJV",
+        "horaDesde":"Mon May 01 2017 09:00:00 GMT+0200",
+        "horaHasta":"Mon May 01 2017 20:00:00 GMT+0200",
+        "sobrecarga":30,
+        "estado":"B"
+      }
+    ]
+  }
+}
